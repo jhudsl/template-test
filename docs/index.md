@@ -15,6 +15,7 @@ output:
 
 # About this Course {-}
 
+Test PR
 
 ## Available course formats
 
