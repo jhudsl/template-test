@@ -1,0 +1,6 @@
+url	chapt_title	img_path
+http://jhudatascience.org/template-test/index.html	About this Course	resources/chapt_screen_images/index.png
+http://jhudatascience.org/template-test/introduction.html	1 Introduction	resources/chapt_screen_images/introduction.png
+http://jhudatascience.org/template-test/a-new-chapter.html	2 A new chapter	resources/chapt_screen_images/a-new-chapter.png
+http://jhudatascience.org/template-test/about-the-authors.html	About the Authors	resources/chapt_screen_images/about-the-authors.png
+http://jhudatascience.org/template-test/references.html	3 References	resources/chapt_screen_images/references.png
